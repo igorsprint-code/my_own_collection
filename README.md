@@ -105,3 +105,4 @@ GNU General Public License v3.0 or later
 See [COPYING] to see the full text.
 
 [copying]: https://github.com/ansible/ansible/blob/devel/COPYING
+# my_own_collection
