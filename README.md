@@ -68,4 +68,4 @@
 
 [collection](/my_own_namespace/yandex_cloud_elk/)
 
-[tar.gz](/my_own_namespace/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
+[tar.gz](/my_own_namespace/yandex_cloud_elk/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
