@@ -55,4 +55,17 @@
 ![local](screenshots/1.png)
 
 
+3. Коллекция создана [yandex_cloud_elk](my_own_namespace/yandex_cloud_elk/), создана [роль](my_own_namespace/yandex_cloud_elk/roles) и [playbook](site.yml)
 
+
+4. Создан .tar.gz, в каталог [collection_test](/collection_test/) перенесен .tar.gz и playbook, коллекция установлена из локального архива:
+
+![local](screenshots/2.png)
+
+5. Playbook работает:
+
+![local](screenshots/3.png)
+
+[collection](/my_own_namespace/yandex_cloud_elk/)
+
+[tar.gz](/my_own_namespace/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
